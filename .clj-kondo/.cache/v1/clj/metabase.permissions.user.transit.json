@@ -1,1 +1,0 @@
-["^ ","~$user-permissions-set",["^ ","~:row",7,"~:col",1,"~:fixed-arities",["~#set",[1]],"~:name","^0","~:ns","~$metabase.permissions.user","~:top-ns","^7","~:arities",["^ ","~i1",["^ ","~:ret","~:set","~:arglist-str","[user-or-id]"]],"~:type","~:fn"],"~:filename","D:\\MyProgram\\metabase_src\\src\\metabase\\permissions\\user.clj"]

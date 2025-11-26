@@ -1,1 +1,0 @@
-["^ ","~$add-data-for-pivot-export",["^ ","~:row",3,"~:col",1,"~:fixed-arities",["~#set",[2]],"~:name","^0","~:ns","~$metabase.query-processor.middleware.pivot-export","~:top-ns","^7","~:arities",["^ ","~i2",["^ ","~:ret","~:fn","~:arglist-str","[query rff]"]],"~:type","^;"],"~:filename","D:\\MyProgram\\metabase_src\\src\\metabase\\query_processor\\middleware\\pivot_export.clj"]

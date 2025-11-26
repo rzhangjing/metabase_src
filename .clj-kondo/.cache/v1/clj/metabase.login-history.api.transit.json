@@ -1,1 +1,0 @@
-["^ ","~$login-history",["^ ","~:row",9,"~:col",1,"~:fixed-arities",["~#set",[1]],"~:name","^0","~:ns","~$metabase.login-history.api","~:top-ns","^7","~:arities",["^ ","~i1",["^ ","~:ret","~:seq","~:arglist-str","[user-or-id]"]],"~:type","~:fn"],"~:filename","D:\\MyProgram\\metabase_src\\src\\metabase\\login_history\\api.clj"]

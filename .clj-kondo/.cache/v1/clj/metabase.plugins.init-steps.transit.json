@@ -1,1 +1,0 @@
-["^ ","~$do-init-step!",["^ ","~:row",13,"~:col",1,"~:private",true,"~:name","^0","~:ns","~$metabase.plugins.init-steps","~:top-ns","^6"],"~$do-init-steps!",["^ ","^1",26,"^2",1,"~:fixed-arities",["~#set",[1]],"^4","^8","^5","^6","^7","^6","~:type","~:fn"],"~:filename","D:\\MyProgram\\metabase_src\\src\\metabase\\plugins\\init_steps.clj"]
