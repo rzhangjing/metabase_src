@@ -1,0 +1,1 @@
+["^ ","~$record-login-history!",["^ ","~:row",8,"~:col",1,"~:name","^0","~:ns","~$metabase.login-history.core","~:top-ns","^5","~:imported-ns","~$metabase.login-history.record","~:imported-var","^0"],"~:proxied-namespaces",["~#list",["^8"]],"~:filename","D:\\MyProgram\\metabase_src\\src\\metabase\\login_history\\core.clj"]

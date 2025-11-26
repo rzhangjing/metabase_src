@@ -1,0 +1,1 @@
+["^ ","~$def-startup-logic!",["^ ","~:row",7,"~:col",1,"~:name","^0","~:ns","~$metabase.startup.core","~:top-ns","^5"],"~$run-startup-logic!",["^ ","^1",23,"^2",1,"~:fixed-arities",["~#set",[0]],"^3","^7","^4","^5","^6","^5","~:type","~:fn"],"~:filename","D:\\MyProgram\\metabase_src\\src\\metabase\\startup\\core.clj"]

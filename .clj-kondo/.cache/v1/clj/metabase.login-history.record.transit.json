@@ -1,0 +1,1 @@
+["^ ","~$maybe-send-login-from-new-device-email",["^ ","~:fixed-arities",["~#set",[1]],"~:private",true,"~:ns","~$metabase.login-history.record","~:name","^0","~:type","~:fn","~:col",1,"~:top-ns","^5","~:row",13],"~:filename","D:\\MyProgram\\metabase_src\\src\\metabase\\login_history\\record.clj"]

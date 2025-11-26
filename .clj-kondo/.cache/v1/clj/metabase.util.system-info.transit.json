@@ -1,0 +1,1 @@
+["^ ","~$system-info",["^ ","~:row",5,"~:col",1,"~:fixed-arities",["~#set",[0]],"~:name","^0","~:ns","~$metabase.util.system-info","~:top-ns","^7","~:arities",["^ ","~i0",["^ ","~:ret","~:sorted-map","~:arglist-str","[]"]],"~:type","~:fn"],"~:filename","D:\\MyProgram\\metabase_src\\src\\metabase\\util\\system_info.clj"]

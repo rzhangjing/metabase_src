@@ -1,0 +1,1 @@
+["^ ","~$drop-fields-in-summaries",["^ ","~:row",5,"~:col",1,"~:fixed-arities",["~#set",[1]],"~:name","^0","~:ns","~$metabase.query-processor.middleware.drop-fields-in-summaries","~:top-ns","^7","~:type","~:fn"],"~:filename","D:\\MyProgram\\metabase_src\\src\\metabase\\query_processor\\middleware\\drop_fields_in_summaries.clj"]

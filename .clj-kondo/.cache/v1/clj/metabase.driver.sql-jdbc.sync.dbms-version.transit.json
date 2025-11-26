@@ -1,0 +1,1 @@
+["^ ","~$dbms-version",["^ ","~:row",7,"~:col",1,"~:fixed-arities",["~#set",[2]],"~:name","^0","~:ns","~$metabase.driver.sql-jdbc.sync.dbms-version","~:top-ns","^7","~:type","~:fn"],"~:filename","D:\\MyProgram\\metabase_src\\src\\metabase\\driver\\sql_jdbc\\sync\\dbms_version.clj"]

@@ -1,0 +1,1 @@
+["^ ","~$category-cardinality-threshold",["^ ","~:row",20,"~:col",1,"~:name","^0","~:ns","~$metabase.analyze.classifiers.category","~:top-ns","^5","~:type","~:pos-int"],"~$auto-list-cardinality-threshold",["^ ","^1",26,"^2",1,"^3","^9","^4","^5","^6","^5","^7","^8"],"~:filename","D:\\MyProgram\\metabase_src\\src\\metabase\\analyze\\classifiers\\category.clj"]

@@ -1,0 +1,1 @@
+["^ ","~$connection-with-timezone",["^ ","~:row",9,"~:col",1,"~:deprecated","0.47.0","~:name","^0","~:ns","~$metabase.driver.sql-jdbc.execute.old-impl","~:top-ns","^6"],"~$set-timezone-sql",["^ ","^1",16,"^2",1,"^3","0.35.0","^4","^8","^5","^6","^7","^6"],"~:filename","D:\\MyProgram\\metabase_src\\src\\metabase\\driver\\sql_jdbc\\execute\\old_impl.clj"]
